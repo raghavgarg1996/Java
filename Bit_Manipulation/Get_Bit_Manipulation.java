@@ -1,3 +1,5 @@
+package Bit_Manipulation;
+
 public class Get_Bit_Manipulation {
     public static void main(String args[]) {
         int n=5;
