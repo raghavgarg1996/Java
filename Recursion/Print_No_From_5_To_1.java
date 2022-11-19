@@ -1,6 +1,6 @@
-package Recursion.Print_No;
+package Recursion;
 
-public class _From_5_To_1 {
+public class Print_No_From_5_To_1 {
     public static void printfNum(int n) {
         if (n==0) {
             return ;
